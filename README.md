@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/nsukhanth" target="blank"><img src="https://img.shields.io/twitter/follow/nsukhanth?logo=twitter&style=for-the-badge" alt="nsukhanth" /></a> </p>
 
-- 💬 Ask me about **AWS Cloud operations**
 
 - 📫 How to reach me **sukhanth.nandam@gmail.com**
 
