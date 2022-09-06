@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Sukhanth</h1>
-align="left">A passionate cloud enthusiast from India
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhanthn&label=Profile%20views&color=0e75b6&style=flat" alt="sukhanthn" /> </p>
 
