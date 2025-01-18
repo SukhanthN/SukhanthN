@@ -1,11 +1,15 @@
-<h1 align="left">Hi 👋, I'm Sukhanth</h1>
+<h1 align="left">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">,
 
-
+I'm Sukhanth<div align="right">
+    
+</div></h1>
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=saurabhkr952&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhkr952">
+</div>
 
 ## ⚡ Domains
 - Cloud
 - DevOps
-
 
 - 📫 How to reach me **sukhanth.nandam@gmail.com**
 
