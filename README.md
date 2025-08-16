@@ -1,6 +1,4 @@
-<h1 align="left">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">,
-
-I'm Sukhanth<div align="right">
+<h1 align="left">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm Sukhanth<div align="right">
     
 </div></h1>
 <div align="right">
